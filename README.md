@@ -7,4 +7,3 @@ Back-end : PHP  -->Database : MySQL  FLOW OF THE PROJECT:
 Home Page > View all Users > Select and View one User > Transfer Money >  View all Users > View Transfer History.
 
 
-Hosted website:   https://droughtier-research.000webhostapp.com/
